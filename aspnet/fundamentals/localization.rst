@@ -1,7 +1,9 @@
-Globalization and localization   
+全球化与本地化  
 ==============================
 
-`Rick Anderson`_, `Damien Bowden`_, `Bart Calixto`_, `Nadeem Afana`_ 
+作者：`Rick Anderson`_, `Damien Bowden`_, `Bart Calixto`_, `Nadeem Afana`_   
+翻译：  谢炀(kiler)   
+校对：
 
 Creating a multilingual website with ASP.NET Core will allow your site to reach a wider audience. ASP.NET Core provides services and middleware for localizing into different languages and cultures.
 
@@ -321,7 +323,7 @@ Terms:
 - Specific culture: A culture that has a specified language and region. (for example "en-US", "en-GB", "es-CL")
 - Locale: A locale is the same as a culture. 
 
-Additional Resources
+附录资源
 ---------------------
 
 - `Localization.StarterWeb project <https://github.com/aspnet/entropy>`__ used in the article.
