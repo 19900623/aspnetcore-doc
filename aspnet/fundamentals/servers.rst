@@ -1,13 +1,11 @@
-服务器
+Servers
 =======
 
-作者： `Steve Smith`_  
-翻译：  谢炀(kiler)   
-校对：
+By `Steve Smith`_
 
 ASP.NET Core is completely decoupled from the web server environment that hosts the application. ASP.NET Core supports hosting in IIS and IIS Express, and self-hosting scenarios using the Kestrel and WebListener HTTP servers. Additionally, developers and third party software vendors can create custom servers to host their ASP.NET Core apps.
 
-.. contents:: 章节:
+.. contents:: Sections:
   :local:
   :depth: 1
 
